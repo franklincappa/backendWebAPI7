@@ -8,5 +8,7 @@ namespace MagicVilla_WebApi7.Model.DTO
         [Required]
         [MaxLength(35)]
         public string Nombre { get; set; }
+        public int Ocupantes { get; set; }
+        public int MetrosCuadrados { get; set; }
     }
 }
