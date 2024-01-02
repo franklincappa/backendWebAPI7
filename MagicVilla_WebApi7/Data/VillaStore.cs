@@ -4,10 +4,10 @@ namespace MagicVilla_WebApi7.Data
 {
     public class VillaStore
     {
-        public static List<VillaDto> villaList = new List<VillaDto>
+        public static List<VillaUpdateDto> villaList = new List<VillaUpdateDto>
         {
-            new VillaDto {Id=1, Nombre="Vista a la Piscina", Ocupantes=3, MetrosCuadrados=50},
-            new VillaDto {Id=2, Nombre="Vista a la Playa", Ocupantes=4, MetrosCuadrados=63}
+            new VillaUpdateDto {Id=1, Nombre="Vista a la Piscina", Ocupantes=3, MetrosCuadrados=50},
+            new VillaUpdateDto {Id=2, Nombre="Vista a la Playa", Ocupantes=4, MetrosCuadrados=63}
         };
     }
 }
