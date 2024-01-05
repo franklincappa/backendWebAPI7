@@ -13,6 +13,6 @@ namespace MagicVilla_WebApi7.Model
         public Villa Villa { get; set; }
         public string DetalleEspecial { get; set; }
         public DateTime FechaCreacion { get; set; }
-        public DateTime FechaActualziacion { get; set; }
+        public DateTime FechaActualizacion { get; set; }
     }
 }

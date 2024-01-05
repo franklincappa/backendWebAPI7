@@ -22,6 +22,7 @@ builder.Services.AddAutoMapper(typeof(MappingConfig));
 
 //Agregando servicio de Interfaz Repositorio
 builder.Services.AddScoped<IVillaRepositorio, VillaRepositorio>();
+builder.Services.AddScoped<INumeroVillaRepositorio, NumeroVillaRepositorio>();
 
 var app = builder.Build();
 

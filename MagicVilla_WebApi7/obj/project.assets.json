@@ -3554,19 +3554,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\User\\.nuget\\packages\\": {}
+    "C:\\Users\\Franklin Cappa\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Desarrollo\\backendWebAPI7\\MagicVilla_WebApi7\\MagicVilla_WebApi7.csproj",
+      "projectUniqueName": "D:\\ProyectosDev\\backendWebAPI7\\MagicVilla_WebApi7\\MagicVilla_WebApi7.csproj",
       "projectName": "MagicVilla_WebApi7",
-      "projectPath": "D:\\Desarrollo\\backendWebAPI7\\MagicVilla_WebApi7\\MagicVilla_WebApi7.csproj",
-      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\Desarrollo\\backendWebAPI7\\MagicVilla_WebApi7\\obj\\",
+      "projectPath": "D:\\ProyectosDev\\backendWebAPI7\\MagicVilla_WebApi7\\MagicVilla_WebApi7.csproj",
+      "packagesPath": "C:\\Users\\Franklin Cappa\\.nuget\\packages\\",
+      "outputPath": "D:\\ProyectosDev\\backendWebAPI7\\MagicVilla_WebApi7\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Franklin Cappa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -3646,7 +3651,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100-rc.2.23502.2\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
       }
     }
   }
